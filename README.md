@@ -99,8 +99,7 @@ python Arrays/0001_two_sum.py
 
 ## Author
 
-**Omkar Solat**
-
+**Omkar Solat** -
 B.Tech CSE (AI/ML), 4th Semester
 
 [GitHub](https://github.com/OmkarSolat-17) · [LinkedIn](https://www.linkedin.com/in/omkar-solat-os17/) · [LeetCode](https://leetcode.com/u/omkarsolat_17/) · [Portfolio](https://omkarsolat-17.github.io/portfolio/)
