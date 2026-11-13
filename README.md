@@ -20,6 +20,8 @@ LeetCode-Daily/
 └── README.md
 ```
 
+Topics are added as I start them. The full roadmap is in the Topic Coverage table below.
+
 Files are named `NNNN_problem_name.py`, where `NNNN` is the LeetCode problem number.
 
 ## Solution Format
@@ -98,6 +100,7 @@ python Arrays/0001_two_sum.py
 ## Author
 
 **Omkar Solat**
+
 B.Tech CSE (AI/ML), 4th Semester
 
 [GitHub](https://github.com/OmkarSolat-17) · [LinkedIn](https://www.linkedin.com/in/omkar-solat-os17/) · [LeetCode](https://leetcode.com/u/omkarsolat_17/) · [Portfolio](https://omkarsolat-17.github.io/portfolio/)
