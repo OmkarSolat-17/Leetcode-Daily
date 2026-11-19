@@ -11,12 +11,10 @@ class Solution:
         """Store each number's index in a hash map. For every element,
         check if target - num was already seen. O(n) time, O(n) space."""
         seen = {}
-        for i, num in enumerate(nums):
-            complement = target - num
-            if complement in seen:
-                return [seen[complement], i]
-            seen[num] = i
-        return []
+        for i,n in enumerate(nums):
+            if target - n in seen:
+                return [seen[target - n], i]
+            seen[n] = i
 
 
 # ── Tests ───────────────────────────────────────────────────────────
