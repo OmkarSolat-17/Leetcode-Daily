@@ -46,20 +46,20 @@ class Solution:
 
 ## Progress
 
-Last updated: 2026-11-13
+Last updated: 2026-11-18
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|    Easy    |   0    |
+|    Easy    |   1    |
 |   Medium   |   0    |
 |    Hard    |   0    |
-| **Total**  | **0**  |
+| **Total**  | **1**  |
 
 ### Topic Coverage
 
 | Topic               | Solved | Status      |
 | ------------------- | :----: | ----------- |
-| Arrays              |   0    | In progress |
+| Arrays              |   1    | In progress |
 | Strings             |   0    | Planned     |
 | Hashing             |   0    | Planned     |
 | Two Pointers        |   0    | Planned     |
