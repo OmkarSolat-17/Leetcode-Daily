@@ -8,7 +8,7 @@ Daily LeetCode practice in Python, organized by topic. Each solution includes th
 
 ## Overview
 
-This repository tracks my daily DSA practice on LeetCode. Each problem is saved in the folder for its main topic, with a short explanation of the approach and its complexity. I'm working toward AI/ML engineering roles, so the aim is to build solid fundamentals that carry over to algorithm-heavy interviews.
+This repository tracks my daily DSA practice on LeetCode. Each problem is saved in the folder for its main topic, with a short explanation of the approach and its complexity. I'm working toward AI/ML engineering roles, so the aim is to build solid foundations that carry over to algorithm-heavy interviews.
 
 ## Repository Structure
 
@@ -16,6 +16,10 @@ This repository tracks my daily DSA practice on LeetCode. Each problem is saved 
 LeetCode-Daily/
 ├── Arrays/
 │   ├── 0001_two_sum.py
+│   ├── 0217_contains_duplicate.py
+│   └── ...
+├── Strings/
+│   ├── 0242_valid_anagram.py
 │   └── ...
 └── README.md
 ```
@@ -34,6 +38,7 @@ Every file follows the same layout:
 # Pattern: Hash Map (complement lookup)
 # Time: O(n)
 # Space: O(n)
+# Runtime: Xms (Beats XX%) | Memory: XMB (Beats XX%)
 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
@@ -50,17 +55,17 @@ Last updated: 2026-11-18
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|    Easy    |   1    |
+|    Easy    |   3    |
 |   Medium   |   0    |
 |    Hard    |   0    |
-| **Total**  | **1**  |
+| **Total**  | **3**  |
 
 ### Topic Coverage
 
 | Topic               | Solved | Status      |
 | ------------------- | :----: | ----------- |
-| Arrays              |   1    | In progress |
-| Strings             |   0    | Planned     |
+| Arrays              |   2    | In progress |
+| Strings             |   1    | In progress |
 | Hashing             |   0    | Planned     |
 | Two Pointers        |   0    | Planned     |
 | Sliding Window      |   0    | Planned     |
