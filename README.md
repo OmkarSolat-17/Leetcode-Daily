@@ -16,10 +16,14 @@ This repository tracks my daily DSA practice on LeetCode. Each problem is saved 
 LeetCode-Daily/
 ├── Arrays/
 │   ├── 0001_two_sum.py
+│   ├── 0121_best_time_to_buy_and_sell_stock.py
+│   ├── 0169_majority_element.py
 │   ├── 0217_contains_duplicate.py
 │   └── ...
 ├── Strings/
+│   ├── 0125_valid_palindrome.py
 │   ├── 0242_valid_anagram.py
+│   ├── 2124_check_if_all_as_appears_before_all_bs.py
 │   └── ...
 └── README.md
 ```
@@ -38,7 +42,7 @@ Every file follows the same layout:
 # Pattern: Hash Map (complement lookup)
 # Time: O(n)
 # Space: O(n)
-# Runtime: Xms (Beats XX%) | Memory: XMB (Beats XX%)
+# Runtime: Xms (Beats XX%) | Memory: XMB (Beats XX%)   ← only if beats 80%+
 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
@@ -55,17 +59,17 @@ Last updated: 2026-11-18
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|    Easy    |   3    |
+|    Easy    |   7    |
 |   Medium   |   0    |
 |    Hard    |   0    |
-| **Total**  | **3**  |
+| **Total**  | **7**  |
 
 ### Topic Coverage
 
 | Topic               | Solved | Status      |
 | ------------------- | :----: | ----------- |
-| Arrays              |   2    | In progress |
-| Strings             |   1    | In progress |
+| Arrays              |   4    | In progress |
+| Strings             |   3    | In progress |
 | Hashing             |   0    | Planned     |
 | Two Pointers        |   0    | Planned     |
 | Sliding Window      |   0    | Planned     |
