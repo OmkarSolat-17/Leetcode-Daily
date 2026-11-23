@@ -58,7 +58,7 @@ class Solution:
 
 ## Progress
 
-Last updated: 2026-11-16
+Last updated: 2026-11-23
 
 | Difficulty | Solved |
 | :--------: | :----: |
