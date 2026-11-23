@@ -16,9 +16,12 @@ This repository tracks my daily DSA practice on LeetCode. Each problem is saved 
 LeetCode-Daily/
 ├── Arrays/
 │   ├── 0001_two_sum.py
+│   ├── 0026_remove_duplicates_from_sorted_array.py
+│   ├── 0027_remove_element.py
 │   ├── 0121_best_time_to_buy_and_sell_stock.py
 │   ├── 0169_majority_element.py
 │   ├── 0217_contains_duplicate.py
+│   ├── 0283_move_zeroes.py
 │   └── ...
 ├── Strings/
 │   ├── 0125_valid_palindrome.py
@@ -55,23 +58,23 @@ class Solution:
 
 ## Progress
 
-Last updated: 2026-11-18
+Last updated: 2026-11-16
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|    Easy    |   7    |
+|    Easy    |   10   |
 |   Medium   |   0    |
 |    Hard    |   0    |
-| **Total**  | **7**  |
+| **Total**  | **10** |
 
 ### Topic Coverage
 
 | Topic               | Solved | Status      |
 | ------------------- | :----: | ----------- |
-| Arrays              |   4    | In progress |
+| Arrays              |   7    | In progress |
 | Strings             |   3    | In progress |
 | Hashing             |   0    | Planned     |
-| Two Pointers        |   0    | Planned     |
+| Two Pointers        |   4    | In progress |
 | Sliding Window      |   0    | Planned     |
 | Binary Search       |   0    | Planned     |
 | Stack and Queue     |   0    | Planned     |
@@ -81,6 +84,8 @@ Last updated: 2026-11-18
 | Backtracking        |   0    | Planned     |
 | Greedy              |   0    | Planned     |
 | Dynamic Programming |   0    | Planned     |
+
+Arrays and Strings count files by folder; Two Pointers counts solutions using that primary pattern and overlaps with those folder counts. Other planned entries are not yet tracked as pattern counts.
 
 ## Workflow
 
