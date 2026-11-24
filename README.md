@@ -18,14 +18,17 @@ LeetCode-Daily/
 │   ├── 0001_two_sum.py
 │   ├── 0026_remove_duplicates_from_sorted_array.py
 │   ├── 0027_remove_element.py
+│   ├── 0066_plus_one.py
 │   ├── 0121_best_time_to_buy_and_sell_stock.py
 │   ├── 0169_majority_element.py
 │   ├── 0217_contains_duplicate.py
 │   ├── 0283_move_zeroes.py
+│   ├── 0485_max_consecutive_ones.py
 │   └── ...
 ├── Strings/
 │   ├── 0125_valid_palindrome.py
 │   ├── 0242_valid_anagram.py
+│   ├── 0344_reverse_string.py
 │   ├── 2124_check_if_all_as_appears_before_all_bs.py
 │   └── ...
 └── README.md
@@ -58,23 +61,23 @@ class Solution:
 
 ## Progress
 
-Last updated: 2026-11-23
+Last updated: 2026-11-24
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|    Easy    |   10   |
+|    Easy    |   13   |
 |   Medium   |   0    |
 |    Hard    |   0    |
-| **Total**  | **10** |
+| **Total**  | **13** |
 
 ### Topic Coverage
 
 | Topic               | Solved | Status      |
 | ------------------- | :----: | ----------- |
-| Arrays              |   7    | In progress |
-| Strings             |   3    | In progress |
+| Arrays              |   9    | In progress |
+| Strings             |   4    | In progress |
 | Hashing             |   0    | Planned     |
-| Two Pointers        |   4    | In progress |
+| Two Pointers        |   5    | In progress |
 | Sliding Window      |   0    | Planned     |
 | Binary Search       |   0    | Planned     |
 | Stack and Queue     |   0    | Planned     |
