@@ -26,6 +26,7 @@ LeetCode-Daily/
 │   ├── 0485_max_consecutive_ones.py
 │   └── ...
 ├── Strings/
+│   ├── 0028_find_the_index_of_the_first_occurrence_in_a_string.py
 │   ├── 0125_valid_palindrome.py
 │   ├── 0242_valid_anagram.py
 │   ├── 0344_reverse_string.py
@@ -65,17 +66,17 @@ Last updated: 2026-11-24
 
 | Difficulty | Solved |
 | :--------: | :----: |
-|    Easy    |   13   |
+|    Easy    |   14   |
 |   Medium   |   0    |
 |    Hard    |   0    |
-| **Total**  | **13** |
+| **Total**  | **14** |
 
 ### Topic Coverage
 
 | Topic               | Solved | Status      |
 | ------------------- | :----: | ----------- |
 | Arrays              |   9    | In progress |
-| Strings             |   4    | In progress |
+| Strings             |   5    | In progress |
 | Hashing             |   0    | Planned     |
 | Two Pointers        |   5    | In progress |
 | Sliding Window      |   0    | Planned     |
